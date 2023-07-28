@@ -1,0 +1,24 @@
+.para{
+    font-size: 100px;
+}
+.head{
+    font-size: 80px;
+    font-weight: 900px;
+    height: 100px;
+    font-family: roboto;
+}
+.bth {
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    font-family: roboto;
+    font-size: 20px;
+    margin: 10px;
+    background-color:wheat;
+}
+.bgcontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: brown;
+}
